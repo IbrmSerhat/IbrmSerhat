@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **ibrmserhataktas@gmail.com**
 
-![snake gif](https://github.com/ibrmserhat/ibrmserhat/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/IbrmSerhat/Ibrmserhat/blob/output/github-contribution-grid-snake.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
