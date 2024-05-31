@@ -3,6 +3,8 @@
 
 - 📫 How to reach me **ibrmserhataktas@gmail.com**
 
+- [![Leetcode Stats](https://leetcard.jacoblin.cool/BaturKutay?theme=unicorn)](https://leetcode.com/SerhatAktas/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ibrahim-serhat-aktas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahim-serhat-aktas" height="30" width="40" /></a>
