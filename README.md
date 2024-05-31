@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **ibrmserhataktas@gmail.com**
 
-- [![Leetcode Stats](https://leetcard.jacoblin.cool/BaturKutay?theme=unicorn)](https://leetcode.com/SerhatAktas/)
+- [![Leetcode Stats](https://leetcard.jacoblin.cool/SerhatAktas?theme=unicorn)](https://leetcode.com/SerhatAktas/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
